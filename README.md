@@ -36,9 +36,17 @@ Implementation of two core tasks using Groq APIs with OpenAI SDK compatibility f
 **Language:** Python 3.10+
 
 ## 📁 Files Structure
+
+
 Groq-Assignment-Yardstick/
+
+
 ├── Groq_Conversation_Management_Assignment.ipynb # Main implementation
+
+
 ├── README.md # Project documentation
+
+
 └── requirements.txt # Dependencies
 
 ## 📈 Results Summary
