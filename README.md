@@ -1,4 +1,4 @@
-# Groq_Assignment_Yardstick
+# Groq_Assignment_
 Conversation Management &amp; Classification using Groq API - Yardstick Internship Assignment
 
 # Groq API Assignment - Conversation Management & Classification
