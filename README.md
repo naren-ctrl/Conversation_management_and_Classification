@@ -1,10 +1,10 @@
 # Groq_Project_
-Conversation Management &amp; Classification using Groq API - Yardstick Internship Assignment
+Conversation Management &amp; Classification using Groq API 
 
 # Groq API Project - Conversation Management & Classification
 
 ## 🎯 Assignment Overview
-Implementation of two core tasks using Groq APIs with OpenAI SDK compatibility for **Yardstick AI/ML Developer Internship**.
+Implementation of two core tasks using Groq APIs with OpenAI SDK compatibility 
 
 **Submission Date:** September 15, 2025  
 **Deadline:** September 16, 2025  
